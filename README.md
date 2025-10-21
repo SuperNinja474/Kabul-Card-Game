@@ -39,6 +39,7 @@ Some cards have **special abilities**:
 | **Queen** | Allows you to **exchange one of your cards with one of your opponent's face down card** |
 | **King (black)** | Allows you to **look at one of your own face-down cards and if you like it, you can take it** |
 | **King (red)** | Its value is 0 |
+| **Jolly** | Its value is -1 |
 
 ---
 
