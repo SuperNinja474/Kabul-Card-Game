@@ -54,4 +54,5 @@ Some cards have **special abilities**:
 - Optional graphics library: [Raylib](https://www.raylib.com/)
 - Compilation (MSYS2 – UCRT64):
   ```bash
-  g++ main.cpp -o cardgame -lraylib -lopengl32 -lgdi32 -lwinmm
+  g++ kabul.cpp player.cpp cardHandling.cpp -o kabul -lraylib -lopengl32 -lgdi32 -lwinmm
+
