@@ -1,7 +1,7 @@
 # Kabul-Card-Game
 🃏 C++ Card Game 🃏 
 
-A strategic memory-based card game developed in **C++**.  
+A strategic memory-based card game developed in **C++** using the Raylib library.  
 Each player tries to have a hand with a **total value of 4 or less**, using strategy, and memory.
 
 ---
